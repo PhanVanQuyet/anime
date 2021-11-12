@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/PhanVanQuyet/anime/static/css/main.601687df.chunk.css",
+    "main.js": "/PhanVanQuyet/anime/static/js/main.cf7cb03c.chunk.js",
+    "main.js.map": "/PhanVanQuyet/anime/static/js/main.cf7cb03c.chunk.js.map",
+    "runtime-main.js": "/PhanVanQuyet/anime/static/js/runtime-main.25b08f1d.js",
+    "runtime-main.js.map": "/PhanVanQuyet/anime/static/js/runtime-main.25b08f1d.js.map",
+    "static/js/2.06ecec41.chunk.js": "/PhanVanQuyet/anime/static/js/2.06ecec41.chunk.js",
+    "static/js/2.06ecec41.chunk.js.map": "/PhanVanQuyet/anime/static/js/2.06ecec41.chunk.js.map",
+    "index.html": "/PhanVanQuyet/anime/index.html",
+    "static/css/main.601687df.chunk.css.map": "/PhanVanQuyet/anime/static/css/main.601687df.chunk.css.map",
+    "static/js/2.06ecec41.chunk.js.LICENSE.txt": "/PhanVanQuyet/anime/static/js/2.06ecec41.chunk.js.LICENSE.txt",
+    "static/media/Black-Clover.35297966.jpg": "/PhanVanQuyet/anime/static/media/Black-Clover.35297966.jpg",
+    "static/media/another.53e8dbef.jpg": "/PhanVanQuyet/anime/static/media/another.53e8dbef.jpg",
+    "static/media/another2.f0466e66.jpg": "/PhanVanQuyet/anime/static/media/another2.f0466e66.jpg",
+    "static/media/another3.f1e55ad3.jpg": "/PhanVanQuyet/anime/static/media/another3.f1e55ad3.jpg",
+    "static/media/seton.56c2f3e1.jpg": "/PhanVanQuyet/anime/static/media/seton.56c2f3e1.jpg",
+    "static/media/video1.1fdf6070.mp4": "/PhanVanQuyet/anime/static/media/video1.1fdf6070.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25b08f1d.js",
+    "static/js/2.06ecec41.chunk.js",
+    "static/css/main.601687df.chunk.css",
+    "static/js/main.cf7cb03c.chunk.js"
+  ]
+}
